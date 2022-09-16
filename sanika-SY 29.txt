@@ -1,0 +1,55 @@
+#Ohm's Law
+
+#I=int(input("enter the current"))
+#R=int(input("enter the resistance"))
+#v=I*R
+#print(v)
+#a=int(input("Enter the Radius"))
+#Area=3.14*a*a
+#print(Area)
+#s=int(input("Enter the radius"))
+#Area=2*3.14*s
+#print(Area)
+
+#Area of triangle
+
+#A=int(input("Enter the Base"))
+#B=int(input("Enter the height"))
+#Area=0.5*A*B
+#(Area)
+
+#Pythagorus Theorem
+
+#p=int(input("Enter the side"))
+#q=int(input("Enter the side"))
+#HY=p**2+q**2
+#H=HY**0.5
+#print(H)
+#Square of a Number
+#c=int(input("Enter the number"))
+#square=c*c
+#print(square)
+
+#Square Root
+
+#s=int(input("Enter the number"))
+#Num=s**0.5
+#print(Num)
+
+#Sum og 10 Numbers
+
+#r=int(input("Enter the Number"))
+#sum=0
+#for i in range(1,r+1):   
+ #   sum=sum+i
+#print(sum)
+
+#Average of 10 Numbers
+
+#d=int(input("Enter the Numbers"))
+#sum=0
+#for i in range(1,d+1):
+ #   sum=sum+i
+#print(sum) 
+#Average=sum/10
+#print(Average)
